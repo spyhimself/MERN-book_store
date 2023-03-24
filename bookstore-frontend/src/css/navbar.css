@@ -1,0 +1,23 @@
+.navbar {
+  border-bottom: 1px solid #362222 !important;
+}
+
+.input-group>.form-control:focus {
+  box-shadow: inset 0 0 0 1px rgb(147, 89, 0) !important;
+}
+
+.navbar-brand {
+  color: #362222 !important;
+}
+
+.nav-link {
+  color: #C58940 !important;
+}
+
+.nav-link.active {
+  color: #362222 !important;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #362222 !important;
+}

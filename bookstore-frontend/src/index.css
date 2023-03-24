@@ -1,0 +1,11 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.root {
+  background: rgb(255,246,191);
+  background: -moz-linear-gradient(135deg, rgba(255,246,191,1) 0%, rgba(229,186,115,1) 100%);
+  background: -webkit-linear-gradient(135deg, rgba(255,246,191,1) 0%, rgba(229,186,115,1) 100%);
+  background: linear-gradient(135deg, rgba(255,246,191,1) 0%, rgba(229,186,115,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fff6bf",endColorstr="#e5ba73",GradientType=1);
+}
